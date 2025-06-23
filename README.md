@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Nabila Nurhusna Yap!
+### 👋 Hello, I'm Nabila Nurhusna Yap
+💻 Portfolio → [nabila.vercel.app](https://nabila.vercel.app)
+
 
 I'm a student majoring in **Informatics Engineering** at **Universitas Sriwijaya**. I have a strong passion for **Software Engineering**, and I'm constantly exploring new technologies and tools to improve my skills in this field.
 
